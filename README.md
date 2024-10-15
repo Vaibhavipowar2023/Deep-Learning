@@ -36,5 +36,7 @@ A technique where a pre-trained model is used as a starting point for a new task
 This section explains the process of training a model, evaluating its performance, and tuning hyperparameters. Key topics include:
 
 **Train/Test Split:** How to split the dataset for training and evaluation.
+
 **Metrics:** Common evaluation metrics such as accuracy, precision, recall, and F1-score.
+
 **Overfitting and Underfitting:** Techniques for avoiding these issues, such as regularization and dropout.
